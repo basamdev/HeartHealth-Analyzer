@@ -58,7 +58,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/HeartHealth-Analyzer.git
+git clone https://github.com/https://github.com/basamdev/HeartHealth-Analyzer.git
 Set up a local server environment (e.g., XAMPP, WAMP).
 
 Import the provided SQL file into your database.
